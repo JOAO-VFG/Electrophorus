@@ -1,0 +1,10 @@
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\bin\Debug\Electrophorus.exe.config
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\bin\Debug\Electrophorus.exe
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\bin\Debug\Electrophorus.pdb
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.csprojAssemblyReference.cache
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.TelaInicial.resources
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.Properties.Resources.resources
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.csproj.GenerateResource.cache
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.exe
+C:\Users\Gabri\Documents\Development\Desktop\Electrophorus\Electrophorus\obj\Debug\Electrophorus.pdb
