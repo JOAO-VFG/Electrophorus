@@ -32,6 +32,6 @@
 *.app
 
 # Folders
-Properties/
-bin/
-obj/
+Properties/*
+bin/*
+obj/*
